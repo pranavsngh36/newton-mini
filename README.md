@@ -6,4 +6,8 @@ Tech Stack -> HTML and CSS
 
 Project Description ->  I chose this problem cause of my personal interest in travelling  and photography. This project also has a lot of features that i can keep adding as i move ahead in my training . I tried adding as many as gimmicks i could and will keep working on it in future
 
-<img src="images/Screenshot 1.png">
+<img src="screenshot 1.png">
+Here i have added  a navigation bar to directly take us to the images </br>
+Added 2 buttons that link to instagram and youtube.
+
+
